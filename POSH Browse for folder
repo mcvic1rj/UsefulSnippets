@@ -1,0 +1,2 @@
+$app = new-object -com Shell.Application
+$folder = $app.BrowseForFolder(0, "Select Folder", 0, "C:\")
