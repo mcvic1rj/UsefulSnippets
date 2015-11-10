@@ -1,0 +1,9 @@
+#Required for Jenkins Slave
+Add-WindowsFeature RSAT-AD-Powershell,RSAT-AD-AdminCenter
+#Java 64bit
+#GIT tools
+#
+#
+#
+#
+#
