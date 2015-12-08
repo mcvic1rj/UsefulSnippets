@@ -1,0 +1,1 @@
+http://www.reddit.com/r/PowerShell/comments/3pt1a0/avoid_statically_defining_domain_controllers_in/
